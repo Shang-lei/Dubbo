@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="user-service-provider"/>
+<aop-project name="boot-user-service-provider"/>
+<aop-project name="boot-order-service-consumer"/>
+</aop-reference-model>
